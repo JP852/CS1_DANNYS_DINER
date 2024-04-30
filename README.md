@@ -1,5 +1,7 @@
 # CS1_DANNYS_DINER
 
+![image](https://github.com/JP852/CS1_DANNYS_DINER/assets/142391590/1b9381b1-5ac4-4638-9edf-e57575dee44e)
+
 #### Link to Challenge
 
 https://8weeksqlchallenge.com/case-study-1/
